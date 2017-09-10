@@ -1,4 +1,4 @@
 #usr/bin/python
-def main(msg):
+def main(msg,bobo):
     print (msg)
-main("Hello People")
+main("Hello People",'')
